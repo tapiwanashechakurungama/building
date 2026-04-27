@@ -76,6 +76,10 @@
   }
 }
 
+  .whatsapp-hover-transition {
+      transition: all 0.2s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+    }
+
 @layer base {
   * { @apply border-border; }
   html { scroll-behavior: smooth; }
