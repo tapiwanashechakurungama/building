@@ -43,7 +43,7 @@ const Home = () => {
 
         <div className="container relative z-10 pb-20 pt-40">
           <p className="font-mono text-xs uppercase tracking-[0.3em] text-accent mb-6 animate-fade-in">
-            ◤ Construction Group / Since 2009
+            ◤ Construction Group / Since 2015
           </p>
           <h1 className="text-mega max-w-[14ch]">
             <span className="block clip-reveal" style={{ animationDelay: "0.1s" }}>WE BUILD</span>

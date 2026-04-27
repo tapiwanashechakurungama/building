@@ -31,7 +31,7 @@ const About = () => {
           <img src={about} alt="Engineer reviewing site plans" loading="lazy" className="w-full aspect-[4/3] object-cover" />
         </Reveal>
         <Reveal delay={150} className="lg:col-span-5 flex flex-col justify-end space-y-6">
-          <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-muted-foreground">Founded 2009</p>
+          <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-muted-foreground">Founded 2015</p>
           <p className="text-xl leading-relaxed">
             PIVOT was started by two structural engineers who were tired of watching good drawings turn into mediocre buildings.
           </p>
