@@ -74,21 +74,21 @@ const Contact = () => {
           <div>
             <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-accent mb-4">Studio</p>
             <p className="font-display text-2xl leading-tight">
-              482 Industrial Way<br />
-              District 9, Block C<br />
-              Cairo, Egypt
+             Harare<br />
+              Zimbabwe
+              <br />
+             
             </p>
           </div>
           <div>
             <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-accent mb-4">Direct</p>
             <ul className="space-y-2 text-lg">
-              <li>hello@pivot.build</li>
-              <li>+20 100 482 9001</li>
+               <li>+263 77 102 7343</li>
             </ul>
           </div>
           <div>
             <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-accent mb-4">Hours</p>
-            <p className="text-lg">Sun–Thu, 08:00 — 18:00 EET</p>
+            <p className="text-lg">Mon–Sat, 08:00 — 21:00</p>
           </div>
           <div className="border-t border-foreground pt-6">
             <p className="font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground">
