@@ -58,7 +58,7 @@ const Footer = () => {
         </div>
         <br />
          <div className="border-t border-background/10 mt-20 pt-8 flex flex-col md:flex-row justify-between gap-4 font-mono text-[11px] text-background/50 uppercase tracking-[0.15em]">
-          <span>© {new Date().getFullYear()}Developed by</span>
+          <span>Developer</span>
           <a href="https://wa.me/263733517788" 
          target="_blank" 
          rel="noopener noreferrer"
@@ -74,8 +74,8 @@ const Footer = () => {
            font-bold 
            text-lg 
            md:text-xl 
-           py-3.5 
-           px-7 
+           py-1.5 
+           px-5 
            md:py-4 
            md:px-10 
            rounded-2xl 
@@ -103,10 +103,10 @@ const Footer = () => {
         </span>
         
        
-        <span class="tracking-wide">Neichnice Technologies</span>
+        <span class="tracking-wide">Neichnice</span>
         
       
-        <span class="text-sm md:text-base transition-all duration-200 group-hover:translate-x-0.5">💬</span>
+        
       </a>
         </div>
 
