@@ -38,7 +38,7 @@ const Home = () => {
 
         {/* Vertical side label */}
         <div className="hidden lg:flex absolute left-6 top-1/2 -translate-y-1/2 -rotate-90 origin-center font-mono text-[11px] uppercase tracking-[0.4em] text-background/60">
-          PIVOT / Build № 0001 — Cairo
+          T#ONE CONSTRUCTION INVESTMENT T/A / Build № 0001 — Cairo
         </div>
 
         <div className="container relative z-10 pb-20 pt-40">
@@ -52,7 +52,7 @@ const Home = () => {
 
           <div className="mt-12 grid md:grid-cols-12 gap-8 items-end">
             <p className="md:col-span-5 text-lg text-background/80 max-w-md animate-fade-in" style={{ animationDelay: "0.7s" }}>
-              PIVOT is a construction group engineering high-performance buildings, infrastructure, and civil works across the region — on schedule, on budget, and built to outlive the contract.
+              T#ONE CONSTRUCTION INVESTMENT T/A is a construction group engineering high-performance buildings, infrastructure, and civil works across the region — on schedule, on budget, and built to outlive the contract.
             </p>
             <div className="md:col-span-4 md:col-start-9 flex gap-4 animate-fade-in" style={{ animationDelay: "0.9s" }}>
               <Link to="/projects" className="group bg-accent text-accent-foreground px-6 py-4 font-mono text-xs uppercase tracking-[0.2em] inline-flex items-center gap-3 hover:bg-background hover:text-foreground transition-colors duration-300">

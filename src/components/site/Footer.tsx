@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="lg:col-span-5">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-3 h-3 bg-accent" />
-              <span className="font-display text-2xl">PIVOT</span>
+              <span className="font-display text-2xl">T#ONE CONSTRUCTION INVESTMENT T/A</span>
             </div>
             <h2 className="text-huge mb-8">
               Build with <span className="text-accent">conviction.</span>
@@ -26,7 +26,7 @@ const Footer = () => {
             <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-background/50 mb-5">Studio</p>
             <address className="not-italic font-sans text-background/80 leading-relaxed">
               Harare <br />
-              District 9, Block C<br />
+              12 Sunview Stand, Headlands<br />
              Zimbabwe
             </address>
           </div>
@@ -53,7 +53,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-background/10 mt-20 pt-8 flex flex-col md:flex-row justify-between gap-4 font-mono text-[11px] text-background/50 uppercase tracking-[0.15em]">
-          <span>© {new Date().getFullYear()} PIVOT Construction Group</span>
+          <span>© {new Date().getFullYear()} T#ONE CONSTRUCTION INVESTMENT T/A Construction Group</span>
           <span>Engineered in concrete & steel</span>
         </div>
         <br />

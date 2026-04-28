@@ -30,9 +30,9 @@ const Navbar = () => {
       }`}
     >
       <div className="container flex items-center justify-between h-20">
-        <Link to="/" className="group flex items-center gap-2" aria-label="PIVOT home">
+        <Link to="/" className="group flex items-center gap-2" aria-label="T#ONE CONSTRUCTION INVESTMENT T/A home">
           <div className="w-3 h-3 bg-accent group-hover:rotate-45 transition-transform duration-500" />
-          <span className="font-display text-2xl tracking-tighter">PIVOT</span>
+          <span className="font-display text-2xl tracking-tighter">T#ONE CONSTRUCTION INVESTMENT T/A</span>
           <span className="font-mono text-[10px] text-muted-foreground hidden sm:inline">/ SINCE 2015</span>
         </Link>
 

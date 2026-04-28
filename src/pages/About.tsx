@@ -33,7 +33,7 @@ const About = () => {
         <Reveal delay={150} className="lg:col-span-5 flex flex-col justify-end space-y-6">
           <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-muted-foreground">Founded 2015</p>
           <p className="text-xl leading-relaxed">
-            PIVOT was started by two structural engineers who were tired of watching good drawings turn into mediocre buildings.
+            T#ONE CONSTRUCTION INVESTMENT T/A was started by two structural engineers who were tired of watching good drawings turn into mediocre buildings.
           </p>
           <p className="text-muted-foreground leading-relaxed">
             Sixteen years later we are 180 engineers, foremen, and craftspeople operating across Egypt and the Gulf — still owned and led by the people who sign the structural calcs.
