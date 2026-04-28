@@ -56,7 +56,7 @@ const Services = () => {
         </h1>
       </section>
 
-      <section className="border-t border-foreground">
+      <section className="border-t container border-foreground">
         {services.map((s, i) => (
           <Reveal key={s.n} className="border-b border-foreground group">
             <div className="container py-16 grid lg:grid-cols-12 gap-8 items-start hover:bg-asphalt hover:text-background transition-colors duration-500 -mx-6 px-6 lg:-mx-0 lg:px-0">
